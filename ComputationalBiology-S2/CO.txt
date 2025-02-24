@@ -1,0 +1,13 @@
+- GC and AT Composition on DNA
+	- built-in [X]
+	- user-defined [X]
+
+- Melting Point of DNA
+	- GC [X]
+	- NN [X]
+	- Wallace [X]
+	- Basic Calculation (user-defined) [X]
+
+- Nucleotide Molecular Weight
+	- whole sequence [X]
+	- per nucleotide [X]

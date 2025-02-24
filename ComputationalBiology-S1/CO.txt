@@ -1,0 +1,12 @@
+Session 1 - Sequence Analysis using BioPython
+=============================================
+- [X]  BioPython: Introduction and Installation
+- [X]  Working with Sequence
+    - [X]  Combining Sequences
+    - [X]  Finding Length of Sequence
+    - [X]  Counting Nucleotide in Sequence (count / Counter)
+    - [X]  Indexing (index / find)
+    - [X]  Slicing
+    - [X]  Reversing
+- [X]  Sequence and Subsequence Manipulation
+- [X]  Nucleotide Frequency Plot
