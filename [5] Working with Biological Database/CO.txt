@@ -1,0 +1,24 @@
+SESI 5
+[X] Fasta
+   - Parsing
+   - Reading
+[X] GenBank
+   - Parsing
+   - Reading
+=============================================
+[X] PDB
+   - parsing
+   - reading
+[X] mmCIF
+   - parsing
+   - reading
+
+Download PDB file:
+https://files.rcsb.org/download/XXXX.pdb
+Download mmCIF file:
+https://files.rcsb.org/download/XXXX.cif
+
+Download PDB:
+rcsb.org
+Download Fasta/Genbank:
+https://www.ncbi.nlm.nih.gov/

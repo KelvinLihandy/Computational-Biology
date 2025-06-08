@@ -1,0 +1,17 @@
+Sesi 4 - Sequence Alignment
+________________________________________________
+1. Local dan Global Alignment [v]
+    - Terminology Explanation (Match, Mismatch, Gap) []
+    - Local: Mencari alignment terbaik dari sequence dengan subsequence, lebih cocok dipakai ketika panjang kedua sequence berbeda [V]
+    - Global: Mencari alignment terbaik dari kedua sequence secara keseluruhan [V]
+
+2. Similarity Analysis (Mencari skor persamaan dari kedua sequence) [V]
+    - Hamming Distance (Mencari perbedaan dua sequence dengan panjang yang sama) [V]
+    - Leveinshtein Distance (Pergantian nukleotida paling sedikit untuk menyamakan kedua sequence) [V]
+
+3. Dot Plot [V]
+
+Alignment configurations:
+xx -> default score
+mx -> custom match and mismatch score
+ms -> custom match, mismatch, gap start, and gap extension score
